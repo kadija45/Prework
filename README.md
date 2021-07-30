@@ -1,4 +1,4 @@
-# Prework
+
 # Pre-work - *Tip Calculator*
 
 **Name of your app** is a tip calculator application for iOS.
@@ -26,13 +26,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Simulator Screen Recording - iPod touch (7th generation) - 2021-07-29 at 20 45 53](https://user-images.githubusercontent.com/87451905/127697248-4cd47990-a293-46a4-871c-921aba22c49b.gif)
 
-
-
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
